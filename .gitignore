@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+assisgment_3/__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv/
+venv/
+env/
+nxew-env/
+spark_env/
+
+# IDE / editor folders
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
